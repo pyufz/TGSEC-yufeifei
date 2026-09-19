@@ -266,6 +266,13 @@ bash scripts/install-tools.sh        # 按清单补工具
 
 ## 十、融合批次
 
+### 2026-09-19
+
+- 新增公开 CVE/PoC 检索入口 `searchpoc`，并接入 `0day-exploit-library`、README、START 与 MASTER 路由
+- Hermes、Claude、Cursor、Codex、Agents、Gemini 项目技能镜像统一为 16 个入口；补齐缺失的 `pentest-redteam` 镜像与运行时参考
+- 仓库地址、安装脚本和维护者标识统一为 `pyufz/TGSEC-yufeifei`
+- 清理示例配置中的凭证形态内容；未纳入本机会话、人格、密钥、目标资料或缓存文件
+
 ### 2026-09-11
 
 - 补全专项技能全文：不设限 / 钓鱼社工初始访问 / OPSEC（`skills-full` + `skills-restricted`）

@@ -18,6 +18,6 @@ bash scripts/reinstall-tgsec.sh
 
 ## 清单
 
-见各子目录 `SKILL.md` 的 `description:`（系统目录只展示约 57 字，必须是实词触发）。
+当前共 16 个技能入口。见各子目录 `SKILL.md` 的 `description:`（系统目录只展示约 57 字，必须是实词触发）。
 
 @pyufz · @TGSEC-yufeifei 整理

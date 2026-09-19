@@ -134,6 +134,8 @@ bash scripts/sync-hermes-skills.sh
 
 ### 最近融了啥
 
+**2026-09-19：** 新增 `searchpoc`；六套项目技能入口统一为 16 个；补齐 `pentest-redteam` 镜像；仓库身份与安装链接统一并完成示例凭证脱敏。
+
 **2026-09-11：** 专项技能（不设限/钓鱼/OPSEC）· 平台参考 · AI stub · cPanel/KiviCare 替代 PoC · **Claude Code=`pentest-redteam` 状态机开打**。  
 **2026-09-10：** 运行时闸门/能力原语 · AI 安全工程 · n8n/AD/K8s/Copy-Fail · CTF 全套 · **POC 全量目录（poc-catalog + CVE 卡）** · recon 技能全文。  
 **2026-09-08：** TORCH · panda-rev · SQLi 字典 · exploitarium。  
