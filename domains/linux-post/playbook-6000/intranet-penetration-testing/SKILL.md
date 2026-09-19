@@ -988,4 +988,4 @@ POST http://<ip>:<port>/mcp
 - **合规要求**：遵守《网络安全法》《数据安全法》《个人信息保护法》及《网络数据安全管理条例》，仅在授权范围内测试
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

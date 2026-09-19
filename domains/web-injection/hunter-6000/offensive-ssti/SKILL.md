@@ -346,4 +346,4 @@ SSTI often leads directly to RCE, but can also be used for:
 - For Node: disable `with` in EJS, avoid `compileDebug`, and run with `vm` sandbox only when fully locked down (no `require` or `Function` reachable)
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

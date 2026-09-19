@@ -14543,4 +14543,4 @@ After completing Weeks 6-7 (understanding mitigations), Week 8 teaches bypass te
 <!-- Written by AnotherOne from @Pwn3rzs Telegram channel -->
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

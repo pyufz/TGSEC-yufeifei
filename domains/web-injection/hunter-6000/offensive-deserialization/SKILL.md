@@ -182,4 +182,4 @@ Happens when applications deserialize program objects without proper precaution.
 5.  Keep libraries updated; monitor for anomalies.
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

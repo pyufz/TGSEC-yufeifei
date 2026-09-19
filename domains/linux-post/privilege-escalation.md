@@ -1,6 +1,6 @@
 # Linux提权大全
 
-> @TGSEC社区 · @TGSEC-Qtzuu 整理
+> @pyufz · @TGSEC-yufeifei 整理
 
 ## 一、自动化枚举工具
 

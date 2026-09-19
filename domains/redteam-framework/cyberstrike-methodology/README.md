@@ -34,7 +34,7 @@ capability-primitives
 来源批次：微信 CyberStrikeAI 改造文 + 公开 skills/ +（另包）AI安全工程 V4.1 见 `domains/llm-ai-security/ai-security-engineering/`。
 
 
-@TGSEC社区 · @TGSEC-Qtzuu 整理 · 2026-09-10
+@pyufz · @TGSEC-yufeifei 整理 · 2026-09-10
 
 ## 技能全文与平台参考（补全）
 
@@ -43,4 +43,4 @@ capability-primitives
 - `platform-reference/` — roles、agents、docs、tools 配置参考
 
 
-@TGSEC社区 · @TGSEC-Qtzuu 整理 · 2026-09-11
+@pyufz · @TGSEC-yufeifei 整理 · 2026-09-11

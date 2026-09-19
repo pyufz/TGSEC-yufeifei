@@ -29,4 +29,4 @@
 连续多轮负结果且无新攻击面 → 强制重审 loot/Deadends/Approach → 换域或能力原语反向搜索 → 向用户要澄清/授权边界。
 
 
-@TGSEC社区 · @TGSEC-Qtzuu 整理 · 2026-09-10
+@pyufz · @TGSEC-yufeifei 整理 · 2026-09-10

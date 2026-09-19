@@ -87,4 +87,4 @@ bash scripts/install-tools.sh
 bash scripts/sync-hermes-skills.sh   # pull 后必跑
 ```
 
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

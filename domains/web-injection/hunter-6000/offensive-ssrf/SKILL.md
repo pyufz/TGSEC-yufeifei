@@ -827,4 +827,4 @@ http://rancher.cattle-system.svc.cluster.local
 - Apache CXF Aegis databinding SSRF (CVE-2024-28752)
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

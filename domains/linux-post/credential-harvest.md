@@ -1,6 +1,6 @@
 # Linux凭据收集
 
-> @TGSEC社区 · @TGSEC-Qtzuu 整理
+> @pyufz · @TGSEC-yufeifei 整理
 
 ## 一、密码Hash提取与破解
 

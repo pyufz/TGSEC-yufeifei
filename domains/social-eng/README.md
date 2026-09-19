@@ -15,4 +15,4 @@ playbook-6000
 - `playbook-6000/` — 测试方法论 playbook
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

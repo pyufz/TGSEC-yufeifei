@@ -9,7 +9,7 @@
 # Default is OVERLAY without --delete so private local skills (e.g. defi-authorize-drain)
 # are not wiped.
 #
-# @TGSEC社区 · @TGSEC-Qtzuu 整理
+# @pyufz · @TGSEC-yufeifei 整理
 
 set -euo pipefail
 
@@ -40,7 +40,7 @@ echo "  mode: $([ "$PRUNE" = 1 ] && echo 'PRUNE (delete extras)' || echo 'OVERLA
 echo "================================================"
 
 if [ ! -d "$SRC" ]; then
-  echo "[!] missing $SRC — repo incomplete. git pull latest TGSEC-Qtzuu first."
+  echo "[!] missing $SRC — repo incomplete. git pull latest TGSEC-yufeifei first."
   exit 1
 fi
 
@@ -111,5 +111,5 @@ comm -23 \
 echo ""
 echo "[✓] done. 开新会话（或重启 gateway）让 skill 目录刷新。"
 echo "    验证: 对 agent 说 skill_view(tgsec-suite) / reverse-skill / pentest-execution"
-echo "    知识库仍要: git clone/pull https://github.com/lanyz1/TGSEC-Qtzuu → ~/security-suite"
+echo "    知识库仍要: git clone/pull https://github.com/pyufz/TGSEC-yufeifei → ~/security-suite"
 echo "    人格配置: bash $SUITE_DIR/ai-config/hermes/setup.sh"

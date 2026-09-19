@@ -2102,4 +2102,4 @@ Next week, you'll learn patch diffing - analyzing security updates to understand
 <!-- Written by AnotherOne from @Pwn3rzs Telegram channel -->
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

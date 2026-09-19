@@ -6,7 +6,7 @@ difficulty: medium
 vuln_type: web_unknown
 tags: [APT分析, Mr_Rot13, cPanel漏洞, 后门植入, 改root密码, SSH公钥注入, PHP Webshell, JS注入, Filemanager远控, Telegram C2]
 attack_chain: wget/curl下载Update ELF→chmod 755→nohup执行→删除自身→main_changeRootPassword改root密码→main_installSSHKey注入ssh-ed25519公钥→main_installCpanelPy植入PHP Webshell→main_injectLoginPage注入JS到cpanel登录页→main_runWpsockInstaller部署Filemanager远控→main_postData回传C2→main_sendTelegram回传Telegram
-key_payload: "F=/root/.u$$ ELF下载执行;root:123Qwe123C;ssh-ed25519 cpanel-updater;cpanel.py PHP Webshell;login.js JS注入;Filemanager远控;Telegram bot 1190043163:AAEy1FDoB_r8KFiOIqsEpgDQ2k78Ai6BdWk"
+key_payload: "F=/root/.u$$ ELF下载执行;root:<REDACTED>;ssh-ed25519 cpanel-updater;cpanel.py PHP Webshell;login.js JS注入;Filemanager远控;Telegram bot <REDACTED>"
 one_liner: Mr_Rot13 APT分析：cPanel漏洞利用全链路（改密码/SSH公钥/PHP Webshell/JS注入/Filemanager远控/Telegram C2）
 lesson: APT攻击链分析：ELF后门自删除+多后门植入+多C2通道（Telegram+HTTP）
 quality: high
@@ -60,8 +60,8 @@ rm -f "$F"
 
 **6. main_postData + main_sendTelegram**：
 - 敏感信息回传C2
-- Telegram bot 1: `1190043163:AAEy1FDoB_r8KFiOIqsEpgDQ2k78Ai6BdWk`
-- Telegram bot 2: `1190043163:AAFtaUfpui9fqKoRnqOa5XvT6MHLcK1axiU`
+- Telegram bot 1: `<REDACTED>`
+- Telegram bot 2: `<REDACTED>`
 
 **后门文件**：
 - helper.php

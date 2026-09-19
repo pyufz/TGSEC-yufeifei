@@ -16,4 +16,4 @@
 注意：仅用于授权评估；不要把采集器当免杀产品硬塞。
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

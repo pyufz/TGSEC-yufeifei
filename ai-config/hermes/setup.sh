@@ -1,6 +1,6 @@
 #!/bin/bash
 # TGSEC Hermes memories install
-# @TGSEC社区 · @TGSEC-Qtzuu 整理
+# @pyufz · @TGSEC-yufeifei 整理
 set -euo pipefail
 HERMES_DIR="${HERMES_DIR:-$HOME/.hermes}"
 MEMORIES_DIR="$HERMES_DIR/memories"

@@ -20,4 +20,4 @@ Security for AI：输入/身份/工具MCP/RAG记忆/动作策略/防泄漏/供�
 目录规则：不按领域二级堆叠；与 `llm-ai-security` 现有 prompt-injection/mcp-security 等交叉引用，不另起平行宇宙。
 
 
-@TGSEC社区 · @TGSEC-Qtzuu 整理 · 2026-09-10
+@pyufz · @TGSEC-yufeifei 整理 · 2026-09-10

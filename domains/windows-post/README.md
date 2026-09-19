@@ -23,4 +23,4 @@ windows-privilege-escalation
 - `windump-cred-collection/` — Windows 客户端凭证/主机信息采集面 playbook
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

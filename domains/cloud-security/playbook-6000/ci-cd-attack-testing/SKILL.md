@@ -717,4 +717,4 @@ cat /var/run/secrets/kubernetes.io/serviceaccount/token
 - **合规要求**：遵守《网络安全法》《数据安全法》《个人信息保护法》及开源软件许可与平台 ToS，仅在授权范围内测试
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

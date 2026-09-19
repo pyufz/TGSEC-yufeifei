@@ -11,4 +11,4 @@
 同内容亦在 `../skills-full/`。开打前仍以用户授权边界为准；超范围先停。
 
 
-@TGSEC社区 · @TGSEC-Qtzuu 整理 · 2026-09-11
+@pyufz · @TGSEC-yufeifei 整理 · 2026-09-11

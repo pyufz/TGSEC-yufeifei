@@ -901,4 +901,4 @@ username=admin)(&(userPassword=M*&password=x
 - **情报时效**：本技能2026-08更新；LDAP注入面持续演进（AI Agent身份、gMSA、目录服务CVE），测试前查阅最新公告与厂商补丁
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

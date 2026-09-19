@@ -1030,4 +1030,4 @@ libxml_disable_entity_loader(true);   // PHP <8.0
 - **痕迹清理**：测试结束后删除上传的恶意文档、写入的文件、临时 DTD 托管资源
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

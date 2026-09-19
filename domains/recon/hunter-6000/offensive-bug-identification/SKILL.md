@@ -1253,4 +1253,4 @@ Provide: 1) Root cause hypothesis 2) Exploitability assessment 3) Suggested expl
 | IDA 7.x   | IDA 8.x/Ghidra 11  | Better decompilation       |
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

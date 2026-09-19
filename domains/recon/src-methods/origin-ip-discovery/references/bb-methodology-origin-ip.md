@@ -78,4 +78,4 @@ cdn.target.com [CNAME] storage.s3.amazonaws.com ← check bucket name
 | https://www.favihash.com | Manual favicon hash generator |
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

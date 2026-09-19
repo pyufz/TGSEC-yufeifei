@@ -484,4 +484,4 @@ A combination of my own methodology and the Web Application Hacker's Handbook Ta
 - [ ] HTTP/2/3 behavior differences, domain fronting checks, SNI/Host mismatch.
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

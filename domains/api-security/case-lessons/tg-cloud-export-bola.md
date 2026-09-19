@@ -50,4 +50,4 @@ Evidence（命令+响应头/结构）→ Finding（BOLA）→ Path（注册→to
 
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

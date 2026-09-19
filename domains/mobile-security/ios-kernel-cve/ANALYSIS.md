@@ -1,6 +1,6 @@
 # iOS 26.6 Kernel Surface — CVE-2026-65343 批次分析
 
-> @TGSEC社区 · @TGSEC-Qtzuu 整理  
+> @pyufz · @TGSEC-yufeifei 整理  
 > 用途: 移动端/内核研究知识卡，供渗透路由与版本研判。**非完整利用链，不可直接用于盗号/盗U。**
 
 ## 元数据

@@ -592,4 +592,4 @@ A specific case of parameter pollution that affects social sharing functionality
 - **WebSocket Frame Validation**: Parse and validate WS message structures consistently with HTTP parameter handling
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

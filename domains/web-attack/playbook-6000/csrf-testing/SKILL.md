@@ -1055,4 +1055,4 @@ xsrfprobe -u https://target.com --raw http-request.txt -p
 - **情报时效**：本技能基于2026年公开情报（Chromium SameSite议题、Doyensec CSPT2CSRF、USENIX Security 2025 COAT/CORF、OAuth BCP草案、Fetch Metadata框架集成、AI攻防工具链）；浏览器语义与框架防护持续演进，测试前复核目标环境与浏览器版本的最新行为
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

@@ -817,4 +817,4 @@ Combine multiple techniques for more effective bypassing:
 10. Pivot to origin when feasible; fall back to stealth browser automation with humanization
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

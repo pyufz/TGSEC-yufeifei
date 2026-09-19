@@ -987,4 +987,4 @@ llm-triage recon.json > prioritized.txt   # 自研脚本：调本地 LLM 输出�
 - **情报版本**：暗网泄露数据时效极强（48 小时窗口），命中数据须注明发现时间与来源置信度
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

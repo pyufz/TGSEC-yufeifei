@@ -3,4 +3,4 @@
 完整方法卡（55+ 类型 / 双轨 sink+控制流 / 反幻觉）见 `domains/file-vulns/code-audit/methodology/`。
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

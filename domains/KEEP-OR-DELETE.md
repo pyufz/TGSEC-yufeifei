@@ -10,4 +10,4 @@
 ## 唯一知识正文
 `domains/` + 入口 `MASTER.md` + AI 自动配置 `scripts/bootstrap.sh`
 
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

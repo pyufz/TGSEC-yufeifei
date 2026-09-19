@@ -1311,4 +1311,4 @@ ffuf -u http://target.com/upload -X POST -F "file=@shell.php;filename=FUZZ" -w e
 - **WAF绕过非100%**：WAF规则不断更新，绕过技术需持续迭代
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

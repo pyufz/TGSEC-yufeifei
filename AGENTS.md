@@ -6,7 +6,7 @@
 > 包根目录 = **本文件所在目录**（不要写死盘符；Windows 常见 `C:\Users\<你>\security-suite`）。  
 > 知识正文在 `domains/`；总导航 `MASTER.md`；**全 AI 路径表 `ROUTING.md`（不依赖 Hermes）**；`hermes-skills/` 仅 Hermes 可选加速。
 
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理
 
 ---
 
@@ -287,14 +287,14 @@ bash scripts/bootstrap.sh --force
 ## 11. 安装（人类）
 
 ```bash
-git clone https://github.com/lanyz1/TGSEC-Qtzuu.git security-suite
+git clone https://github.com/pyufz/TGSEC-yufeifei.git security-suite
 cd security-suite && bash scripts/bootstrap.sh
 ```
 
 公开仓 Linux 一行（若 raw/cdn 可用）：
 
 ```bash
-curl -fsSL https://cdn.jsdelivr.net/gh/lanyz1/TGSEC-Qtzuu@master/scripts/install-linux.sh | bash
+curl -fsSL https://cdn.jsdelivr.net/gh/pyufz/TGSEC-yufeifei@master/scripts/install-linux.sh | bash
 ```
 
 Windows：见仓库 `INSTALL.md` / `scripts/install-windows.ps1`（以当前仓内文件为准）。
@@ -312,4 +312,4 @@ Windows：见仓库 `INSTALL.md` / `scripts/install-windows.ps1`（以当前仓�
 
 ---
 
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

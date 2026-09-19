@@ -781,4 +781,4 @@ to poison future writes and achieve DOM‑XSS. Test wherever `Object.assign` or
 | **ParamSpider 3**      | LLM‑enhanced parameter discovery  |
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

@@ -40,4 +40,4 @@ unauthorized-access-common-services
 - `src-methods/` — SRC 漏洞测试方法
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

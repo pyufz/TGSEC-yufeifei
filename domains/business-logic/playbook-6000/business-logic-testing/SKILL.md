@@ -1384,4 +1384,4 @@ time: 0 / -1 / 9999999999999 → 时间戳边界（永久有效/已过期逻辑�
 - **情报持续更新**：业务逻辑漏洞高度依赖具体业务场景，跟踪 OWASP BLA Top 10、OWASP API Top 10、OWASP LLM Top 10、PortSwigger 研究（Smashing the state machine）等权威源，及时更新本技能
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

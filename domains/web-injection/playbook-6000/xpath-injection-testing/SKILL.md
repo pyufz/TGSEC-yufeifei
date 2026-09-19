@@ -821,4 +821,4 @@ xcat -m POST -t "<user><user>u</user><pass>p</pass></user>" \
 - **情报更新**：跟踪OWASP/CWE-643/CWE-652与SAML库安全公告（ruby-saml、simplesamlphp、Net::SAML2、samlify），及时更新本技能
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

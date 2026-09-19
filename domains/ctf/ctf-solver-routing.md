@@ -246,4 +246,4 @@ grep -rl "具体关键词" "CTF大赛WP集合/articles/" --include="*.meta.md" |
 6. **不要每次跑完整流程**：根据用户意图选模式。用户要payload就给payload，别绕圈。
 
 
-@TGSEC社区 · @TGSEC-Qtzuu 整理 · 2026-09-10
+@pyufz · @TGSEC-yufeifei 整理 · 2026-09-10

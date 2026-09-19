@@ -36,4 +36,4 @@ Secrets深挖: trufflehog/gitleaks 扫git全历史+docker镜像层+npm/PyPI tarb
 验证要看工具副作用（OOB/读文件），不是模型嘴上承认。
 
 
-@TGSEC社区 · @TGSEC-Qtzuu 整理 · 2026-09-10
+@pyufz · @TGSEC-yufeifei 整理 · 2026-09-10

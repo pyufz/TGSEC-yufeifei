@@ -484,4 +484,4 @@ flowchart TD
   - For mobile deep links, validate package/bundle IDs and enforce App Links/Universal Links verification.
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

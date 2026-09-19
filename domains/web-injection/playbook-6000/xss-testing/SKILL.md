@@ -1412,4 +1412,4 @@ if (window.trustedTypes && trustedTypes.createPolicy) {
 - **遵守SRC/赏金规则**：参与漏洞赏金时严格遵守项目范围（Scope）、禁止测试项（如DoS、社工）、报告规范
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

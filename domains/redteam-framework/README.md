@@ -20,7 +20,7 @@ pentest-lyan-workflow
 - `web-assess-pipeline/` — 测绘→挖洞→收敛门禁流水线
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理
 
 <!-- fused:TORCH campaign layer (2026-09-08) -->
 ## TORCH campaign layer (2026-09-08)

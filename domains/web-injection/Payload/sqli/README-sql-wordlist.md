@@ -8,4 +8,4 @@
 Use with ffuf/sqlmap/custom fuzzers. Prefer unique file first to avoid wasted dups.
 
 
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

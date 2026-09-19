@@ -819,4 +819,4 @@ POST /mcp  {"jsonrpc":"2.0","method":"tools/list","id":1}
 - **合规要求**：遵守《网络安全法》《数据安全法》《个人信息保护法》，仅在授权范围内测试
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

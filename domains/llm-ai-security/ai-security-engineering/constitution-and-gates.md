@@ -209,4 +209,4 @@ Tool调用许可 = Tool有权 ∩ 参数合法 ∩ 对象有权 ∩ 数据域允
 ```
 
 
-@TGSEC社区 · @TGSEC-Qtzuu 整理 · 2026-09-10
+@pyufz · @TGSEC-yufeifei 整理 · 2026-09-10

@@ -1,6 +1,6 @@
 # 内网横移技术
 
-> @TGSEC社区 · @TGSEC-Qtzuu 整理
+> @pyufz · @TGSEC-yufeifei 整理
 
 ## 一、内网信息收集
 

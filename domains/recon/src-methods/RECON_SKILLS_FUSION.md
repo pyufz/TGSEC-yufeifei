@@ -5,4 +5,4 @@
 优先增量字段经验：write-gap / schema-enum / metrics / origin-ip / CORS 变体。
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

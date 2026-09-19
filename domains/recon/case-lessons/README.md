@@ -11,4 +11,4 @@
 
 **不收录：** 真实 Token、session 包、助记词、受害者 PII、越狱 ds.txt。
 
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

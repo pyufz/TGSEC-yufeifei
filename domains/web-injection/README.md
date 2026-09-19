@@ -44,7 +44,7 @@ xxe-xml-external-entity
 - `src-methods/` — SRC 漏洞测试方法
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理
 
 <!-- fused:TORCH + SQL wordlist (2026-09-08) -->
 ## TORCH + SQL wordlist (2026-09-08)

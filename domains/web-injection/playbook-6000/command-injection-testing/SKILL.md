@@ -697,4 +697,4 @@ bashfuscator -c "id" -t 5 -s 1
 - **影响评估**：命令注入影响极大（RCE→内网横向→数据泄露→提权），报告中明确标注严重级别
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

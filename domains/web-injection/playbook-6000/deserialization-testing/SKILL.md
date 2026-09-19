@@ -885,4 +885,4 @@ data = yaml.safe_load(user_input)
 - **报告义务**：发现漏洞后按约定向甲方/厂商提交完整报告（复现步骤、影响、修复建议），不做公开披露
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

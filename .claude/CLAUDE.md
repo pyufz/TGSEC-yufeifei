@@ -42,4 +42,4 @@ python3 -X utf8 .claude/skills/pentest-redteam/scripts/case_ledger.py verify --r
 - 未授权公网乱打；授权已声明时禁止空谈不执行  
 - 虚构命令输出；手工改 `case/evidence-validation.md`；「已到极限」提前收工  
 
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

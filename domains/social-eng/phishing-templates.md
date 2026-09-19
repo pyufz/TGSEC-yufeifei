@@ -1,6 +1,6 @@
 # 钓鱼邮件模板集
 
-> @TGSEC社区 · @TGSEC-Qtzuu 整理
+> @pyufz · @TGSEC-yufeifei 整理
 > 仅用于授权红队演练/安全意识培训
 
 ## 一、中文钓鱼模板

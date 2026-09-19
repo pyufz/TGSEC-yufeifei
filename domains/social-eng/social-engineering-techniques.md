@@ -1,6 +1,6 @@
 # 社会工程学技术手册
 
-> @TGSEC社区 · @TGSEC-Qtzuu 整理
+> @pyufz · @TGSEC-yufeifei 整理
 > 仅用于授权红队演练/安全意识培训
 
 ## 一、OSINT信息收集

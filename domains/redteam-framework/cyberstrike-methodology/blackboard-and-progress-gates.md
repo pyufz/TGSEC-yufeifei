@@ -52,4 +52,4 @@ fingerprint = target + tool + normalized_args + credential_context + intent
 Hermes 侧：高风险工具默认不在常规角色；生产策略变更禁止 Agent 直接下发。
 
 
-@TGSEC社区 · @TGSEC-Qtzuu 整理 · 2026-09-10
+@pyufz · @TGSEC-yufeifei 整理 · 2026-09-10

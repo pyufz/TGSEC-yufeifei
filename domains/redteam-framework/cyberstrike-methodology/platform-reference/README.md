@@ -4,4 +4,4 @@
 活靶纪律仍走 `pentest-execution` + `cyberstrike-methodology` 提炼文档 + `skills-full`。
 
 
-@TGSEC社区 · @TGSEC-Qtzuu 整理 · 2026-09-11
+@pyufz · @TGSEC-yufeifei 整理 · 2026-09-11

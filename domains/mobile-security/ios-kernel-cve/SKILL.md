@@ -25,4 +25,4 @@ description: iOS≤26.6 kernel CVE/KASLR research notes.
 - 输出可复现攻击步骤/利用链 PoC 操作手册
 - 未核版本就断言 “全版本沦陷”
 
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

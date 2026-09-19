@@ -1108,4 +1108,4 @@ ffuf / nuclei      # 通用指纹与漏洞验证（AI 服务专用模板）
 - **AI 工具使用边界**：LLM 辅助审计结果必须人工复核（幻觉风险）；生成 payload 先本地验证再使用；不得将集群真实凭据/Secret 明文投喂外部 LLM 服务
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

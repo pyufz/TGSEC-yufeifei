@@ -85,4 +85,4 @@ Tool 风险 = 权限 × 参数自由度 × 副作用 × 外部可控性
 
 输出：input_class、tainted_segments、affected_decision、required_isolation、provenance。
 
-@TGSEC社区 · @TGSEC-Qtzuu 整理 · 2026-09-10
+@pyufz · @TGSEC-yufeifei 整理 · 2026-09-10

@@ -605,4 +605,4 @@ IDOR vulnerabilities can often be chained with other issues or used to escalate 
 - **Cache Partitioning**: Partition CDN caches by auth headers; avoid cacheable 200/304 for private resources.
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

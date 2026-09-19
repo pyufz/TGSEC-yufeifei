@@ -8,7 +8,7 @@
 
 包根 = 含本文件 + `MASTER.md` + `domains/` 的目录。
 
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理
 
 ---
 
@@ -112,7 +112,7 @@ E. 对应 web/api/auth playbook-6000 与 case-lessons
 
 ---
 
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理
 
 <!-- fused:batch-20260908-routes -->
 ## 增量路由 2026-09-08

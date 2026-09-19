@@ -165,7 +165,7 @@ User requires ALL upstream author names, repo references, and agent identifiers 
 - YAML fields: replace agent IDs inside case/technique YAML files
 - Skills SKILL.md: strip `(yaklang/hack-skills, depth-1)` style parenthetical source attributions
 - Final grep sweep: `grep -ri` for ALL known upstream identifiers, fix any remnants
-- User's brand format: `@TGSEC社区 · @TGSEC-Qtzuu 整理` (bottom of README/AGENTS/MASTER)
+- User's brand format: `@pyufz · @TGSEC-yufeifei 整理` (bottom of README/AGENTS/MASTER)
 
 ## GitHub archive push
 

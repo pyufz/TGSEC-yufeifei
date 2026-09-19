@@ -589,4 +589,4 @@ Strategies to prevent and fix AI/LLM vulnerabilities:
 | Model Theft            | Secure APIs and infrastructure, implement watermarking, enforce legal agreements, limit model exposure          |
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

@@ -1,9 +1,9 @@
-# TGSEC-Qtzuu · 安全知识聚合库
+# TGSEC-yufeifei · 安全知识聚合库
 
-> **@TGSEC社区 · @TGSEC-Qtzuu 整理**  
+> **@pyufz · @TGSEC-yufeifei 整理**  
 > 面向 **AI + 人** 的授权安全知识库：渗透测试、挖洞、红队方法论，按**攻击面**组织，可直接丢给 Grok Build / Claude / Cursor / Hermes / Codex 等使用。
 
-**仓库地址：** https://github.com/lanyz1/TGSEC-Qtzuu  
+**仓库地址：** https://github.com/pyufz/TGSEC-yufeifei  
 
 **👉 完全零基础：只看 [`START.md`](START.md)（3 步）**  
 **👉 AI 查「说了啥去哪个目录」：[`ROUTING.md`](ROUTING.md)**  
@@ -39,17 +39,17 @@
 
 **Windows（PowerShell 一行，需 [Git for Windows](https://git-scm.com/download/win)）：**
 ```powershell
-irm https://cdn.jsdelivr.net/gh/lanyz1/TGSEC-Qtzuu@master/scripts/install-windows.ps1 | iex
+irm https://cdn.jsdelivr.net/gh/pyufz/TGSEC-yufeifei@master/scripts/install-windows.ps1 | iex
 ```
 
 **Linux / macOS / WSL：**
 ```bash
-curl -fsSL https://cdn.jsdelivr.net/gh/lanyz1/TGSEC-Qtzuu@master/scripts/install-linux.sh | bash
+curl -fsSL https://cdn.jsdelivr.net/gh/pyufz/TGSEC-yufeifei@master/scripts/install-linux.sh | bash
 ```
 
 或手动：
 ```bash
-git clone https://github.com/lanyz1/TGSEC-Qtzuu.git security-suite
+git clone https://github.com/pyufz/TGSEC-yufeifei.git security-suite
 cd security-suite
 bash scripts/bootstrap.sh   # 写各 AI 入口 + 同步伞形技能
 ```
@@ -190,7 +190,7 @@ domains/                 ★ 知识正文（按攻击面，~5200+ 文件）
 | Web 注入/API/JWT/IDOR | `hack-skills` → `web-sec` | `web-injection` `web-attack` `auth` `api` · `torch-hunt` |
 | SQLi 字典 fuzz | （同上） | `web-injection/Payload/sqli/*orwa*` |
 | 组件/版本已识别 | （+ component intel） | `recon/component-vuln-intel/` · `0day-exploits/` · `POC-PLATFORM-INDEX.md` |
-| 产品已知 RCE | `0day-exploit-library` | `0day-exploits/<product>/` · `EXPLOITARIUM-INDEX.md` |
+| 产品/CVE PoC 检索 | `searchpoc` → `0day-exploit-library` | `0day-exploits/<product>/` · `POC-CATALOG-INDEX.md` |
 | n8n / Form 工作流 | （+ 0day） | `web-injection/Vuln/middleware/n8n/`（含 fullchain + exploit） |
 | 内网 AD / Kerberos 反射 | （开局） | `ad-attack/cve-2026-26128-kerberos-unicode-reflection/` |
 | K8s/容器逃逸（Copy-Fail） | （开局） | `cloud-security/container-escape-techniques/cve-2026-31431-copyfail-k8s.md` |
@@ -334,4 +334,4 @@ A：以 `find domains -type f | wc -l` 与本节「实计」为准；融合后�
 
 ---
 
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

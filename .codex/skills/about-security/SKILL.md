@@ -49,4 +49,4 @@ read_file(/root/AboutSecurity/Payload/xss/xxx.txt)
 - Unique vs prior: `payload-orwa-unique.txt` (835)
 - Full 1.3M dump: `/root/SQL-Wordlist/everything.txt` (path only)
 
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

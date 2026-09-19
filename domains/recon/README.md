@@ -44,7 +44,7 @@ tools
 - `component-vuln-intel/` — 组件联网 CVE/PoC 情报
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理
 
 <!-- fused:TORCH wiki tools/cheatsheets (2026-09-08) -->
 ## TORCH wiki tools/cheatsheets (2026-09-08)
@@ -61,4 +61,4 @@ tools
 - `cyberstrike-recon-skills/knowledge_base/`
 
 
-@TGSEC社区 · @TGSEC-Qtzuu 整理 · 2026-09-10
+@pyufz · @TGSEC-yufeifei 整理 · 2026-09-10

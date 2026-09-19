@@ -1,6 +1,6 @@
 # C2框架指南
 
-> @TGSEC社区 · @TGSEC-Qtzuu 整理
+> @pyufz · @TGSEC-yufeifei 整理
 > 仅用于授权红队演练
 
 ## 一、Metasploit

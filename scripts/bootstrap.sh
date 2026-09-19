@@ -4,7 +4,7 @@
 #        bash scripts/bootstrap.sh --pull
 # Marker: .tgsec-bootstrapped  (存在则跳过重活，除非 --force)
 #
-# @TGSEC社区 · @TGSEC-Qtzuu 整理
+# @pyufz · @TGSEC-yufeifei 整理
 
 set -euo pipefail
 

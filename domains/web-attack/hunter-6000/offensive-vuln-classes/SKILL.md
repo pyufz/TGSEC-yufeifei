@@ -1226,4 +1226,4 @@ For each CVE below, determine:
 <!-- Written by AnotherOne from @Pwn3rzs Telegram channel -->
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

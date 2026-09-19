@@ -12,7 +12,7 @@ field-journal
 ```
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理
 
 ## Des-CTF 知识融汇（2026-09-10）
 
@@ -29,4 +29,4 @@ field-journal
 路由：先 `ctf-solver-routing` → Payload/深度文/脚本；大赛 WP 用 meta 检索，勿全量灌上下文。
 
 
-@TGSEC社区 · @TGSEC-Qtzuu 整理 · 2026-09-10
+@pyufz · @TGSEC-yufeifei 整理 · 2026-09-10

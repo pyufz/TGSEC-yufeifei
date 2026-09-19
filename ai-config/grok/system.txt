@@ -31,4 +31,4 @@
 - 0day：`domains/0day-exploits/`
 - 报告课：`domains/recon/case-lessons/`
 
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

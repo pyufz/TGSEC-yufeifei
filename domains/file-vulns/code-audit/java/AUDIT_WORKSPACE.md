@@ -6,4 +6,4 @@
 组件 YAML 命中只是线索；必须回到有效性标准。详见 `audit-skills/SKILL.md`。
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

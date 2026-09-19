@@ -655,4 +655,4 @@ ctypes.windll.kernel32.WaitForSingleObject(ht, -1)
 > Windows 11 23H2 blocks outbound TCP 443/4444 to local subnets (only when Smart App Control policy is set to _Block_). Choose a non‑standard port or use a named‑pipe payload.
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

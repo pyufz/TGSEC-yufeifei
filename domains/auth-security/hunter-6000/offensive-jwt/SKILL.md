@@ -395,4 +395,4 @@ python3 jwt_tool.py <token> -C -d wordlist.txt
 - Prefer `SameSite=Lax/Strict` HttpOnly cookies for web to reduce token exfil; avoid localStorage for access tokens.
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

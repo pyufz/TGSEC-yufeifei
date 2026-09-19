@@ -1178,4 +1178,4 @@ semgrep scan --config=semgrep-rules/taint-sqli.yaml --baseline-commit HEAD~1 ./s
 - **报告伦理**：漏洞披露遵循"先厂商后公开"原则；0day 级发现（如 Fastjson 1.2.83 Gadget-free 类）上报优先级高于公开讨论
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

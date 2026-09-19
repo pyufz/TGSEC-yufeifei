@@ -92,7 +92,7 @@ Clone 后目录一般为 `~/security-suite`（Windows: `%USERPROFILE%\security-s
 | CDN/WAF 源站溯源 | `cdn-origin-tracing` |
 | APK/IPA/JS/二进制逆向 | `reverse-skill` |
 | Web 注入/API playbook | `hack-skills` + `web-sec` |
-| 产品 0day RCE | `0day-exploit-library` |
+| 产品/CVE PoC 检索 | `searchpoc` · `0day-exploit-library` |
 | PHP/Java 白盒审计 | `domains/file-vulns/code-audit/` |
 | iOS26.6/65343/KASLR 研判 | `mobile-security/ios-kernel-cve/ANALYSIS.md` |
 
@@ -123,7 +123,7 @@ ai-config/universal/ — 通用 PERSONA/MEMORY/RULES
 - 2026-09-03: 6000RMB skills 按攻击面融合；MASTER/README 校准；空目录清理；lyan 双结构压平
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理
 
 <!-- fused:batch-20260908 -->
 ## 知识融合批次 2026-09-08
@@ -136,5 +136,4 @@ ai-config/universal/ — 通用 PERSONA/MEMORY/RULES
 - 报告: `/root/_kb_ingest_20260908/FUSION-REPORT-20260908.md`
 
 
-@TGSEC社区 · @TGSEC-Qtzuu 整理
-
+@pyufz · @TGSEC-yufeifei 整理

@@ -100,7 +100,7 @@ bash /root/reverse-skill/skills/scripts/refresh-tool-index.sh
 - [ ] ios-kernel-cve/ANALYSIS.md 存在
 - [ ] PRIMARY SKILL.md 被打开
 
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理
 
 ## panda-rev pack (2026-09-08)
 
@@ -118,4 +118,4 @@ bash /root/reverse-skill/skills/scripts/refresh-tool-index.sh
 `master-route.sh` may not list these until routing.json extended; open SKILL.md directly when hints match.
 
 
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

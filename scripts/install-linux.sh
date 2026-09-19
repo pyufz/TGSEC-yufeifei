@@ -1,7 +1,7 @@
 #!/bin/bash
 # TGSEC 小白一键（Linux/Mac/WSL）
 set -euo pipefail
-REPO="${TGSEC_REPO_URL:-https://github.com/lanyz1/TGSEC-Qtzuu.git}"
+REPO="${TGSEC_REPO_URL:-https://github.com/pyufz/TGSEC-yufeifei.git}"
 DIR="${TGSEC_DIR:-$HOME/security-suite}"
 echo "[TGSEC] 安装到 $DIR"
 if [ -d "$DIR/.git" ]; then

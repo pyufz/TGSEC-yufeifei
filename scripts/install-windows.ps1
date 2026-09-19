@@ -1,7 +1,7 @@
 # TGSEC 小白一键 Windows
-# irm https://cdn.jsdelivr.net/gh/lanyz1/TGSEC-Qtzuu@master/scripts/install-windows.ps1 | iex
+# irm https://cdn.jsdelivr.net/gh/pyufz/TGSEC-yufeifei@master/scripts/install-windows.ps1 | iex
 $ErrorActionPreference = "Stop"
-$Repo = if ($env:TGSEC_REPO_URL) { $env:TGSEC_REPO_URL } else { "https://github.com/lanyz1/TGSEC-Qtzuu.git" }
+$Repo = if ($env:TGSEC_REPO_URL) { $env:TGSEC_REPO_URL } else { "https://github.com/pyufz/TGSEC-yufeifei.git" }
 $Dir  = if ($env:TGSEC_DIR) { $env:TGSEC_DIR } else { Join-Path $HOME "security-suite" }
 Write-Host "[TGSEC] 安装到 $Dir"
 if (-not (Test-Path (Join-Path $Dir ".git"))) {

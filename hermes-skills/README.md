@@ -20,4 +20,4 @@ bash scripts/reinstall-tgsec.sh
 
 见各子目录 `SKILL.md` 的 `description:`（系统目录只展示约 57 字，必须是实词触发）。
 
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

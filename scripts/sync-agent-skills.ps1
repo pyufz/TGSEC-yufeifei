@@ -1,7 +1,7 @@
 # TGSEC — Windows 一键把技能装进 Claude / Cursor 等
 # 用法（在 security-suite 根目录）:
 #   powershell -ExecutionPolicy Bypass -File .\scripts\sync-agent-skills.ps1
-# @TGSEC社区 · @TGSEC-Qtzuu 整理
+# @pyufz · @TGSEC-yufeifei 整理
 
 $ErrorActionPreference = "Stop"
 $ScriptDir = Split-Path -Parent $MyInvocation.MyCommand.Path

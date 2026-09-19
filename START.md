@@ -1,6 +1,6 @@
 # 小白从这里开始（3 步）
 
-仓库：https://github.com/lanyz1/TGSEC-Qtzuu
+仓库：https://github.com/pyufz/TGSEC-yufeifei
 
 这是 **TGSEC 安全知识聚合库**：按攻击面整理的授权渗透 / 挖洞资料 + 伞形技能路由 + 工具/PoC/字典入口。  
 给 **AI 和人**一起用（Grok / Claude / Cursor / Hermes / Codex…）。
@@ -13,19 +13,19 @@
 
 **Windows（PowerShell 复制一行）：**
 ```powershell
-irm https://cdn.jsdelivr.net/gh/lanyz1/TGSEC-Qtzuu@master/scripts/install-windows.ps1 | iex
+irm https://cdn.jsdelivr.net/gh/pyufz/TGSEC-yufeifei@master/scripts/install-windows.ps1 | iex
 ```
 需要先装 [Git for Windows](https://git-scm.com/download/win)。
 
 **不行就两行：**
 ```powershell
-git clone https://github.com/lanyz1/TGSEC-Qtzuu.git $HOME\security-suite
+git clone https://github.com/pyufz/TGSEC-yufeifei.git $HOME\security-suite
 cd $HOME\security-suite
 ```
 
 **Linux / Mac：**
 ```bash
-curl -fsSL https://cdn.jsdelivr.net/gh/lanyz1/TGSEC-Qtzuu@master/scripts/install-linux.sh | bash
+curl -fsSL https://cdn.jsdelivr.net/gh/pyufz/TGSEC-yufeifei@master/scripts/install-linux.sh | bash
 ```
 
 装好后文件夹一般在：`C:\Users\你的用户名\security-suite` 或 `~/security-suite`
@@ -123,7 +123,7 @@ bash scripts/sync-hermes-skills.sh
 | 长任务卡死/乱循环/要凑链 | 同上 + `cyberstrike-progress-gates` / `capability-primitives` |
 | 找源站 / CDN | `cdn-origin-tracing` |
 | Web 注入/越权/API | `hack-skills` → `web-sec` |
-| 产品 RCE / 本地 POC 库 | `0day-exploit-library` · `POC-PLATFORM-INDEX` |
+| 产品/CVE PoC 检索 | `searchpoc` · `0day-exploit-library` · `POC-PLATFORM-INDEX` |
 | n8n / 内网 AD / K8s 逃逸 | `domains/` 下 n8n、`cve-2026-26128-*`、`copyfail-k8s` |
 | CTF / Payload 速查 | `ctf/ctf-solver-routing` · `ctf/payloads/` |
 | AI Agent/MCP 安全 | `llm-ai-security/ai-security-engineering/` |
@@ -173,4 +173,4 @@ cd ~/security-suite && git pull && bash scripts/sync-agent-skills.sh
 
 ---
 
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

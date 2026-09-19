@@ -194,4 +194,4 @@ Skills 包格式兼容 [agentskills.io 规范](https://agentskills.io/specificat
 - **云安全**：IAM策略混淆代理、OIDC信任滥用、LLMjacking
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

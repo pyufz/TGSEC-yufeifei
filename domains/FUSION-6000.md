@@ -24,7 +24,7 @@
 - **windows-post** (57 files): hunter-6000
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理
 
 ## 报告提炼 case-lessons（2026-09-03）
 

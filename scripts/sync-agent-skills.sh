@@ -6,7 +6,7 @@
 #   bash scripts/sync-agent-skills.sh --user-only
 #   bash scripts/sync-agent-skills.sh --dest /custom/skills/dir
 #
-# @TGSEC社区 · @TGSEC-Qtzuu 整理
+# @pyufz · @TGSEC-yufeifei 整理
 set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"

@@ -1066,4 +1066,4 @@ Avoid inserting user input into code that gets evaluated. Also treat user upload
 - **OAST**: Burp Collaborator, Interactsh, canarytokens.org
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

@@ -797,4 +797,4 @@ MISP / OpenCTI # 威胁情报(RAG知识源)
 - **漏洞报告**：测试发现的问题及时向甲方提交完整报告（复现步骤/影响/修复建议），不公开未授权披露
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

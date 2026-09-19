@@ -1266,4 +1266,4 @@ Frida Console / objection    # 交互式Hook
 - **漏洞上报**：发现漏洞后按规范流程向厂商/平台负责任的披露（SRC/漏洞赏金平台），不恶意利用
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

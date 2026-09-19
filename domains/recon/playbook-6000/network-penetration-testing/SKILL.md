@@ -974,4 +974,4 @@ Watson/Windows-Exploit-Suggester # 补丁差集提权建议
 - **防御视角转化**：本技能所有攻击手法同时是检测与修复的输入（见第十五章），建议在授权演练中配合蓝队做检测验证（Atomic Red Team/Caldera），实现攻防能力共同提升
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

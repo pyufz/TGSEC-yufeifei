@@ -14,7 +14,7 @@
 - cPanel CVE-2026-41940、KiviCare CVE-2026-2991 上游仓库 404
 
 
-@TGSEC社区 · @TGSEC-Qtzuu 整理 · 2026-09-11
+@pyufz · @TGSEC-yufeifei 整理 · 2026-09-11
 
 ## 追加
 

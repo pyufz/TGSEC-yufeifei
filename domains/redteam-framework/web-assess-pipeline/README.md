@@ -9,4 +9,4 @@
 与 `pentest-execution` 配合：活靶执行纪律用 pentest-execution；需要结构化门禁与代理证据时读本目录。
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

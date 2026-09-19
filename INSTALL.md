@@ -4,12 +4,12 @@
 
 Windows:
 ```powershell
-irm https://cdn.jsdelivr.net/gh/lanyz1/TGSEC-Qtzuu@master/scripts/install-windows.ps1 | iex
+irm https://cdn.jsdelivr.net/gh/pyufz/TGSEC-yufeifei@master/scripts/install-windows.ps1 | iex
 ```
 
 Linux/Mac:
 ```bash
-curl -fsSL https://cdn.jsdelivr.net/gh/lanyz1/TGSEC-Qtzuu@master/scripts/install-linux.sh | bash
+curl -fsSL https://cdn.jsdelivr.net/gh/pyufz/TGSEC-yufeifei@master/scripts/install-linux.sh | bash
 ```
 
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

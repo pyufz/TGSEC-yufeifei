@@ -26,4 +26,4 @@
 - `domains/0day-exploits/POC-PLATFORM-INDEX.md`
 - `domains/ctf/payloads/` · `depth-articles/` · `scripts/des-ctf-tools/` · `ctf-solver-routing.md` · `lab-writeups/`
 
-@TGSEC社区 · @TGSEC-Qtzuu 整理 · 2026-09-10
+@pyufz · @TGSEC-yufeifei 整理 · 2026-09-10

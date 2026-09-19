@@ -10,4 +10,4 @@
 与现有 `PEN-Linux-LPE.md` / `linux-privilege-escalation` 交叉使用。
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

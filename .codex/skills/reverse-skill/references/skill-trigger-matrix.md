@@ -25,7 +25,7 @@
 3. read_file PRIMARY 或 domains/<面>/
 4. 再写脚本/打点
 
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理
 
 | Fastjson/Shiro/Log4j/Spring 专项 | tgsec-suite → web-injection/playbook-6000 |
 | 组件名+版本先搜洞 | tgsec-suite → recon/component-vuln-intel |

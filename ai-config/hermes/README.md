@@ -1,6 +1,6 @@
 # Hermes Agent 红队配置
 
-> @TGSEC社区 · @TGSEC-Qtzuu 整理
+> @pyufz · @TGSEC-yufeifei 整理
 
 ## 这是什么
 

@@ -43,7 +43,7 @@ Never embed a symlink tree in git — `cp -rL` dereferences first.
 
 ## User context (this operator)
 
-GitHub user `lanyz1`; repo of record: `Qtzuu-TGSEC-` (public, empty, default branch `main`).
+GitHub user `pyufz`; repo of record: `TGSEC-yufeifei` (public, empty, default branch `main`).
 User provided a fine-grained PAT that lacked Contents:Write — fix path: re-issue token with
 
 1. Fine-grained: Repository permissions → Contents → **Read and write** (choose All

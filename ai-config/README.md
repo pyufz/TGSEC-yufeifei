@@ -1,6 +1,6 @@
 # TGSEC 红队执行引擎 — 多AI工具配置
 
-> @TGSEC社区 · @TGSEC-Qtzuu 整理
+> @pyufz · @TGSEC-yufeifei 整理
 
 一套配置让主流AI CLI工具变成渗透测试执行引擎。
 
@@ -27,8 +27,8 @@
 ## 快速安装
 
 ```bash
-git clone https://github.com/lanyz1/TGSEC-Qtzuu.git
-cd TGSEC-Qtzuu/ai-config
+git clone https://github.com/pyufz/TGSEC-yufeifei.git
+cd TGSEC-yufeifei/ai-config
 
 # Hermes
 cd hermes && bash setup.sh && cd ..

@@ -19,7 +19,7 @@ vm-and-bytecode-reverse
 ```
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理
 
 <!-- fused:panda-rev (2026-09-08) -->
 ## panda-rev (2026-09-08)

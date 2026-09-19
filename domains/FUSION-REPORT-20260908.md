@@ -167,4 +167,4 @@ Generated: 2026-09-08 22:00 UTC
 -   pentest-execution SKILL pointer added
 
 
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

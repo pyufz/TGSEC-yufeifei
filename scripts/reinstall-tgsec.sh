@@ -1,9 +1,9 @@
 #!/bin/bash
 # 旧机器一条龙: clone/pull + 全量 bootstrap
 # Usage: bash scripts/reinstall-tgsec.sh [target_dir]
-# @TGSEC社区 · @TGSEC-Qtzuu 整理
+# @pyufz · @TGSEC-yufeifei 整理
 set -euo pipefail
-REPO_URL="${TGSEC_REPO_URL:-https://github.com/lanyz1/TGSEC-Qtzuu.git}"
+REPO_URL="${TGSEC_REPO_URL:-https://github.com/pyufz/TGSEC-yufeifei.git}"
 TARGET="${1:-$HOME/security-suite}"
 echo "=== TGSEC reinstall → $TARGET ==="
 if [ -d "$TARGET/.git" ]; then

@@ -12,4 +12,4 @@ python3 -X utf8 .claude/skills/pentest-redteam/scripts/case_ledger.py render cas
 python3 -X utf8 .claude/skills/pentest-redteam/scripts/case_ledger.py verify --report case
 ```
 
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

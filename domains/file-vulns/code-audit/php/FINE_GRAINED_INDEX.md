@@ -12,4 +12,4 @@
 已有聚合层（`php-injection-audit` 等）保留；细粒度 skill 补全分类深度。
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

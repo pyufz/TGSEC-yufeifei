@@ -26,7 +26,7 @@ playbook-6000
 - `android-adb-assess/` — 真机/ADB 评估模块清单
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理
 
 <!-- fused:panda-rev mobile (2026-09-08) -->
 ## panda-rev mobile (2026-09-08)

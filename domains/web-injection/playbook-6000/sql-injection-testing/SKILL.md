@@ -882,4 +882,4 @@ sqlmap -u "second_order_url" --second-order="trigger_url" --second-req="request.
 - **WAF绕过非100%**：受WAF版本、规则、部署架构影响，需要持续调整策略
 
 ---
-@TGSEC社区 · @TGSEC-Qtzuu 整理
+@pyufz · @TGSEC-yufeifei 整理

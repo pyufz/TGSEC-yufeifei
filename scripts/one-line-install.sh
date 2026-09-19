@@ -1,3 +1,3 @@
 #!/bin/bash
 set -euo pipefail
-curl -fsSL https://cdn.jsdelivr.net/gh/lanyz1/TGSEC-Qtzuu@master/scripts/install-linux.sh | bash
+curl -fsSL https://cdn.jsdelivr.net/gh/pyufz/TGSEC-yufeifei@master/scripts/install-linux.sh | bash
